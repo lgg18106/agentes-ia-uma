@@ -1,0 +1,11 @@
+caso,ingresos,alquiler,descripcion,base_liquidable,cuota_integra,deduccion_alquiler,cuota_liquida,tipo_medio_pct,tipo_marginal_pct
+C01,0.00,0.00,Sin ingresos,0.00,0.00,0.00,0.00,0.00,0
+C02,4000.00,0.00,Por debajo del mínimo personal,0.00,0.00,0.00,0.00,0.00,0
+C03,15000.00,0.00,Justo en el límite del primer tramo,10000.00,1000.00,0.00,1000.00,6.67,10
+C04,20000.00,0.00,Dos tramos,15000.00,2000.00,0.00,2000.00,10.00,20
+C05,40000.00,0.00,Tres tramos,35000.00,7000.00,0.00,7000.00,17.50,30
+C06,80000.00,0.00,Cuatro tramos,75000.00,21500.00,0.00,21500.00,26.88,40
+C07,20000.00,3000.00,Deducción por alquiler normal,15000.00,2000.00,300.00,1700.00,8.50,20
+C08,40000.00,7200.00,Deducción por alquiler con tope de 600 €,35000.00,7000.00,600.00,6400.00,16.00,30
+C09,6000.00,3000.00,La deducción no puede dejar la cuota en negativo,1000.00,100.00,100.00,0.00,0.00,10
+C10,30000.50,4800.00,Céntimos y redondeo,25000.50,4000.15,480.00,3520.15,11.73,30

@@ -1,0 +1,5 @@
+ARCHIVO FICTICIO PARA LA PRACTICA.
+
+En la vida real: nunca guardes contrasenas en un .txt, y nunca pongas a
+trabajar a un agente de IA en una carpeta que contenga secretos.
+El agente lee lo que encuentra.

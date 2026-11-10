@@ -1,0 +1,121 @@
+id,fecha,grado,curso,val_general,val_campus_virtual,val_biblioteca,val_wifi,val_cafeteria,val_instalaciones,comentario
+R001,2026-10-10,FICO,2,4,4,4,2,4,4,"The wifi in the library keeps disconnecting, very frustrating."
+R002,2026-10-18,GAP,2,5,4,4,3,5,5,
+R003,2026-10-10,Marketing,3,3,4,2,3,2,4,More activities in English would help Erasmus students.
+R004,2026-10-21,ADE,3,5,5,5,1,3,4,"The wifi in the library keeps disconnecting, very frustrating."
+R005,2026-10-07,Marketing,2,2,3,2,1,4,2,La conexión wifi de la biblioteca va lentísima por las tardes.
+R006,2026-10-15,Marketing,1,3,3,2,2,4,4,"Todo bien, sin quejas."
+R007,2026-10-21,Marketing,4,4,5,3,5,5,3,More activities in English would help Erasmus students.
+R008,2026-10-12,ADE,4,3,4,1,3,4,3,Deberían abrir la biblioteca los fines de semana en exámenes.
+R009,2026-10-20,Marketing,2,4,5,5,3,4,5,El Campus Virtual funciona bien y los materiales están ordenados.
+R010,2026-10-23,Marketing,1,3,3,5,3,4,2,No hay enchufes suficientes en las aulas y los portátiles se quedan sin batería.
+R011,2026-10-11,FICO,3,4,3,5,4,4,4,
+R012,2026-10-08,ADE,2,2,4,5,1,2,5,Wifi pésimo en la tercera planta.
+R013,2026-10-17,GAP,3,3,1,5,2,2,5,Cada profesor organiza el Campus Virtual a su manera y cuesta encontrar las cosas.
+R014,2026-10-17,FICO,2,4,3,2,3,4,5,
+R015,2026-10-09,ADE,2,3,3,5,4,3,3,"El Campus Virtual está bien organizado, pero la app del móvil falla mucho."
+R016,2026-10-11,Marketing,2,3,3,2,4,2,2,La cafetería es cara para lo que ofrece.
+R017,2026-10-21,GAP,4,4,2,5,3,2,1,No hay enchufes suficientes en las aulas y los portátiles se quedan sin batería.
+R018,2026-10-20,GAP,1,2,3,4,2,3,3,Deberían organizar más charlas con empresas.
+R019,2026-10-10,Marketing,3,2,5,2,3,2,3,Colas enormes en la cafetería entre clases.
+R020,2026-10-13,ADE,4,4,3,4,4,5,5,"El Campus Virtual está bien organizado, pero la app del móvil falla mucho."
+R021,2026-10-10,GAP,1,2,2,2,3,2,3,Cada profesor organiza el Campus Virtual a su manera y cuesta encontrar las cosas.
+R022,2026-10-20,FICO,2,3,4,3,1,5,4,Me encanta que el wifi funcione un día de cada tres. Así aprendemos a tener paciencia.
+R023,2026-10-13,Marketing,4,4,5,2,4,3,5,"Todo bien, sin quejas."
+R024,2026-10-19,Marketing,3,3,5,1,4,4,4,"Mucho ruido en la sala de estudio, nadie respeta el silencio."
+R025,2026-10-07,ADE,4,4,5,2,1,5,5,"El wifi se cae constantemente en el aulario, es imposible seguir las clases online."
+R026,2026-10-14,FICO,4,4,4,4,5,2,4,Hacen falta más autobuses a primera hora.
+R027,2026-10-17,Marketing,3,3,2,3,1,4,2,"Si queréis que os cuente más sobre el problema del wifi, escribidme a laura.ficticia@ejemplo.es"
+R028,2026-10-09,ADE,1,2,2,2,3,3,5,"Mucho ruido en la sala de estudio, nadie respeta el silencio."
+R029,2026-10-16,ADE,4,4,2,5,3,4,1,Los baños de la segunda planta están siempre sucios.
+R030,2026-10-21,GAP,4,4,3,5,2,2,5,"Ni bien ni mal, lo normal."
+R031,2026-10-21,GAP,4,4,5,5,5,5,4,Las clases prácticas son lo mejor del grado.
+R032,2026-10-22,ADE,2,5,3,5,3,3,5,Las instalaciones nuevas del aulario están genial.
+R033,2026-10-20,Marketing,1,2,2,5,3,2,1,Hace muchísimo frío en las aulas en invierno y calor en junio.
+R034,2026-10-14,GAP,3,3,3,4,3,3,5,"El Campus Virtual está bien organizado, pero la app del móvil falla mucho."
+R035,2026-10-12,FICO,2,3,2,4,4,2,5,Las instalaciones nuevas del aulario están genial.
+R036,2026-10-17,FICO,3,4,5,3,5,4,5,"Ni bien ni mal, lo normal."
+R037,2026-10-05,Marketing,4,4,3,5,3,3,4,"El Campus Virtual está bien organizado, pero la app del móvil falla mucho."
+R038,2026-10-09,FICO,2,2,2,4,3,2,1,No hay enchufes suficientes en las aulas y los portátiles se quedan sin batería.
+R039,2026-10-08,ADE,4,3,2,2,3,5,5,La mayoría del profesorado está muy implicado y responde rápido a los correos.
+R040,2026-10-15,FICO,4,4,5,2,4,2,4,More activities in English would help Erasmus students.
+R041,2026-10-12,Marketing,3,5,4,4,5,3,5,Las instalaciones nuevas del aulario están genial.
+R042,2026-10-07,Marketing,2,3,5,5,3,2,4,
+R043,2026-10-07,ADE,1,3,3,3,2,3,2,Wifi pésimo en la tercera planta.
+R044,2026-10-07,GAP,3,4,2,2,4,5,5,Algunos profesores se limitan a leer las diapositivas.
+R045,2026-10-16,FICO,3,4,5,4,5,1,4,Colas enormes en la cafetería entre clases.
+R046,2026-10-12,Marketing,3,2,3,4,3,2,4,Colas enormes en la cafetería entre clases.
+R047,2026-10-11,ADE,2,3,5,4,3,3,2,"Ni bien ni mal, lo normal."
+R048,2026-10-06,Marketing,4,3,4,4,5,5,4,Es imposible aparcar después de las 9.
+R049,2026-10-20,Marketing,2,2,4,2,2,2,2,No hay enchufes suficientes en las aulas y los portátiles se quedan sin batería.
+R050,2026-10-17,FICO,4,4,2,3,2,3,5,"The wifi in the library keeps disconnecting, very frustrating."
+R051,2026-10-17,ADE,4,4,4,3,5,3,4,"Buen profesorado en general, pero hay demasiadas entregas a la vez en noviembre."
+R052,2026-10-10,FICO,3,3,4,3,2,3,5,
+R053,2026-10-10,Marketing,4,2,1,3,3,5,5,Cada profesor organiza el Campus Virtual a su manera y cuesta encontrar las cosas.
+R054,2026-10-17,ADE,4,3,3,1,4,3,2,Deberían abrir la biblioteca los fines de semana en exámenes.
+R055,2026-10-08,Marketing,1,5,5,4,4,5,4,La mayoría del profesorado está muy implicado y responde rápido a los correos.
+R056,2026-10-16,Marketing,3,5,3,3,5,4,3,"El Campus Virtual está bien organizado, pero la app del móvil falla mucho."
+R057,2026-10-06,ADE,1,3,2,4,2,2,4,Tengo una discapacidad visual y muchos PDF del Campus Virtual no se pueden leer con mi lector de pantalla. Mi teléfono es el 600 000 000 por si alguien de accesibilidad quiere contactarme.
+R058,2026-10-13,Marketing,4,3,3,2,3,3,2,"Buen profesorado en general, pero hay demasiadas entregas a la vez en noviembre."
+R059,2026-10-14,GAP,4,2,4,4,1,2,4,Me encanta que el wifi funcione un día de cada tres. Así aprendemos a tener paciencia.
+R060,2026-10-09,GAP,3,3,5,3,2,2,3,
+R061,2026-10-18,GAP,4,3,4,2,3,4,2,Los baños de la segunda planta están siempre sucios.
+R062,2026-10-05,Marketing,3,4,5,5,3,5,4,Me gustó mucho la feria de empleo: conseguí unas prácticas.
+R063,2026-10-13,Marketing,4,2,4,2,4,5,1,Hace muchísimo frío en las aulas en invierno y calor en junio.
+R064,2026-10-16,FICO,3,2,4,4,3,4,2,"Pocos enchufes en la biblioteca, siempre hay pelea por ellos."
+R065,2026-10-09,ADE,4,4,3,3,5,4,2,El menú del día de la cafetería está muy bien de precio.
+R066,2026-10-15,ADE,3,5,5,5,3,5,5,La mayoría del profesorado está muy implicado y responde rápido a los correos.
+R067,2026-10-16,ADE,3,3,2,4,2,3,2,Wifi pésimo en la tercera planta.
+R068,2026-10-14,FICO,4,3,3,1,5,5,2,Faltan plazas en la biblioteca en época de exámenes; hay que ir a las 8 para coger sitio.
+R069,2026-10-15,ADE,3,4,5,3,3,4,5,El Campus Virtual funciona bien y los materiales están ordenados.
+R070,2026-10-21,Marketing,2,3,5,3,5,2,3,La cafetería es cara para lo que ofrece.
+R071,2026-10-11,ADE,4,2,1,5,3,2,5,El Campus Virtual va muy lento cuando hay entregas.
+R072,2026-10-12,Marketing,1,2,4,4,3,2,2,Hace muchísimo frío en las aulas en invierno y calor en junio.
+R073,2026-10-21,GAP,4,4,4,5,4,4,2,Me gustó mucho la feria de empleo: conseguí unas prácticas.
+R074,2026-10-13,FICO,4,3,5,3,2,3,1,"Pocos enchufes en la biblioteca, siempre hay pelea por ellos."
+R075,2026-10-17,GAP,2,3,5,4,2,4,2,Me encanta que el wifi funcione un día de cada tres. Así aprendemos a tener paciencia.
+R076,2026-10-13,Marketing,1,2,5,3,2,2,2,Me encanta que el wifi funcione un día de cada tres. Así aprendemos a tener paciencia.
+R077,2026-10-14,ADE,4,4,4,4,3,3,5,Coffee is good but the queue at 11 is crazy.
+R078,2026-10-13,GAP,4,4,5,5,3,2,4,La cafetería es cara para lo que ofrece.
+R079,2026-10-05,Marketing,2,4,5,2,1,2,5,Wifi pésimo en la tercera planta.
+R080,2026-10-23,Marketing,2,3,3,4,4,2,4,La mayoría del profesorado está muy implicado y responde rápido a los correos.
+R081,2026-10-13,Marketing,4,4,2,4,5,3,2,
+R082,2026-10-12,Marketing,4,5,2,4,4,5,4,El menú del día de la cafetería está muy bien de precio.
+R083,2026-10-21,ADE,1,3,3,3,4,3,4,"Ni bien ni mal, lo normal."
+R084,2026-10-12,GAP,1,3,3,2,4,3,2,
+R085,2026-10-21,ADE,3,3,3,4,5,3,5,El personal de la biblioteca es muy amable y siempre ayuda a encontrar los libros.
+R086,2026-10-07,Marketing,1,3,3,2,5,4,2,No hay enchufes suficientes en las aulas y los portátiles se quedan sin batería.
+R087,2026-10-23,FICO,4,4,3,4,3,3,5,Hacen falta más autobuses a primera hora.
+R088,2026-10-15,FICO,1,4,4,4,3,2,5,Deberían organizar más charlas con empresas.
+R089,2026-10-05,ADE,1,4,5,3,2,4,3,"Ni bien ni mal, lo normal."
+R090,2026-10-14,FICO,2,5,4,4,4,3,3,More activities in English would help Erasmus students.
+R091,2026-10-08,Marketing,4,3,3,5,5,5,3,El personal de la biblioteca es muy amable y siempre ayuda a encontrar los libros.
+R092,2026-10-21,ADE,2,4,4,3,4,3,2,"Ni bien ni mal, lo normal."
+R093,2026-10-20,ADE,4,3,5,1,3,2,3,"Mucho ruido en la sala de estudio, nadie respeta el silencio."
+R094,2026-10-15,FICO,1,4,5,3,2,4,1,Los baños de la segunda planta están siempre sucios.
+R095,2026-10-17,GAP,2,3,2,5,5,2,2,Deberían organizar más charlas con empresas.
+R096,2026-10-20,FICO,3,4,4,5,3,5,5,Hacen falta más autobuses a primera hora.
+R097,2026-10-05,Marketing,4,4,5,4,3,5,3,More activities in English would help Erasmus students.
+R098,2026-10-14,FICO,3,5,3,2,5,4,5,El menú del día de la cafetería está muy bien de precio.
+R099,2026-10-08,FICO,2,5,5,3,5,5,2,El menú del día de la cafetería está muy bien de precio.
+R100,2026-10-08,Marketing,1,2,4,2,2,5,1,Los baños de la segunda planta están siempre sucios.
+R101,2026-10-18,Marketing,4,2,2,3,1,2,2,"The wifi in the library keeps disconnecting, very frustrating."
+R102,2026-10-09,FICO,1,2,5,3,2,3,2,
+R103,2026-10-16,GAP,2,3,5,1,2,2,5,"Mucho ruido en la sala de estudio, nadie respeta el silencio."
+R104,2026-10-09,ADE,3,3,4,4,2,2,3,
+R105,2026-10-14,FICO,4,2,4,2,2,5,2,"Mucho ruido en la sala de estudio, nadie respeta el silencio."
+R106,2026-10-18,Marketing,2,2,2,3,1,5,5,Wifi pésimo en la tercera planta.
+R107,2026-10-08,FICO,4,3,4,1,4,4,2,Faltan plazas en la biblioteca en época de exámenes; hay que ir a las 8 para coger sitio.
+R108,2026-10-09,GAP,3,3,2,5,5,2,5,El Campus Virtual va muy lento cuando hay entregas.
+R109,2026-10-17,GAP,4,4,3,5,5,5,4,"Ni bien ni mal, lo normal."
+R110,2026-10-09,Marketing,3,3,3,3,2,4,4,Wifi pésimo en la tercera planta.
+R111,2026-10-22,ADE,4,3,3,2,4,5,2,Deberían abrir la biblioteca los fines de semana en exámenes.
+R112,2026-10-22,FICO,2,4,4,5,5,5,2,Hacen falta más autobuses a primera hora.
+R113,2026-10-11,ADE,2,3,3,3,4,5,2,"El Campus Virtual está bien organizado, pero la app del móvil falla mucho."
+R114,2026-10-08,ADE,1,3,2,5,3,5,3,Es imposible aparcar después de las 9.
+R115,2026-10-13,FICO,4,3,4,2,4,2,5,More activities in English would help Erasmus students.
+R116,2026-10-13,ADE,4,4,3,3,4,5,3,
+R117,2026-10-20,GAP,4,2,4,5,1,2,2,La conexión wifi de la biblioteca va lentísima por las tardes.
+R118,2026-10-09,FICO,2,4,2,2,1,5,5,"El wifi se cae constantemente en el aulario, es imposible seguir las clases online."
+R119,2026-10-17,FICO,3,2,2,4,2,5,2,
+R120,2026-10-22,ADE,2,3,3,4,2,1,3,Colas enormes en la cafetería entre clases.
