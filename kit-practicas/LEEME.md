@@ -5,8 +5,9 @@ Universidad de Málaga, curso 2026-27
 Aquí están todos los materiales de las prácticas de las dos sesiones.
 **Todos los datos son ficticios o simulados**, así que puedes equivocarte sin miedo.
 En la Sesión 1 trabajamos con **Antigravity**, el agente de Google, con **R** y
-con **Overleaf**, y usamos **Claude** como segunda opinión. Nadie tiene que
-pagar nada.
+con **Overleaf**, y usamos **Claude** como segunda opinión. En la Sesión 2
+trabajamos con **GitHub Copilot** y, quien no pueda instalarlo, con **Claude**
+en el navegador. Nadie tiene que pagar nada.
 
 ---
 
@@ -29,16 +30,26 @@ pagar nada.
    cualquier orden en tu ordenador. Leer y escribir ficheros dentro de esta
    carpeta no pide permiso, y por eso se trabaja sobre copias.
 
-## Con Claude (segunda opinión y Sesión 2)
+## Con GitHub Copilot (Sesión 2)
+
+1. Instala la aplicación con la *Guía de instalación de GitHub Copilot*, que se
+   descarga junto al cuaderno de la Sesión 2. Basta una cuenta gratuita de GitHub.
+2. Abre una conversación nueva, pulsa el **+** del cuadro de texto, elige
+   **Folder…** y selecciona esta carpeta (`kit-practicas`).
+3. Debajo del cuadro de texto, pon el modo en **Interactive** y, en **Tool
+   permissions**, elige **Manual approval (Ask every time)**. Así te pedirá
+   permiso antes de cada acción.
+4. La carpeta va adjunta a la conversación, así que cada conversación nueva
+   empieza adjuntándola y diciéndole que trabaje dentro de ella. Los encargos
+   del cuaderno ya llevan esa frase.
+
+## Con Claude (segunda opinión, y la Sesión 2 si no puedes instalar Copilot)
 
 En el navegador (claude.ai) no hace falta instalar nada. Abre un chat nuevo y
 adjunta los ficheros de la práctica con el botón **+** o arrastrándolos. Para la
 práctica de la carpeta desordenada, adjunta `02-carpeta-desordenada/Descargas.zip`.
-
-En la aplicación de escritorio de Claude, con la extensión **Filesystem**,
-Claude puede trabajar sobre esta carpeta y te pide permiso antes de cada acción.
-En **Ajustes > Extensiones > Explorar extensiones**, instala Filesystem y elige
-como carpeta permitida **solo esta carpeta** (`kit-practicas`).
+Cada práctica de la Sesión 2 trae un apartado “En el navegador (claude.ai)” con
+lo que cambia.
 
 ## Si tienes Claude Code
 
@@ -53,6 +64,8 @@ que te pedirá permiso antes de crear, cambiar o mover nada, y no podrá borrar 
 
 - Una conversación nueva para cada práctica (salvo la 4, que sigue en la de la 3).
 - Mejor un encargo bien pensado que cinco intentos.
+- El plan gratuito de Copilot da 200 créditos de IA al mes y no se renuevan
+  hasta el día 1 del mes siguiente.
 - **El día de clase, no uses los agentes antes de la sesión.**
 
 ## Qué hay en cada carpeta
@@ -64,8 +77,8 @@ que te pedirá permiso antes de crear, cambiar o mover nada, y no podrá borrar 
 | `03-encuesta/` | Mini-proyecto, reto B (La voz de los estudiantes) | 2 |
 | `04-documentos/` | Práctica 8 (Instrucciones escondidas) | 2 |
 | `05-calculadora/` | Mini-proyecto, reto C (La calculadora del IFRU) | 2 |
-| `06-skill-informe/` | Práctica 7 (Tu primera Skill) | 2 |
-| `plantillas/` | Encargo, normas de la casa (`CLAUDE.md`) y bitácora | 1 y 2 |
+| `06-skill-informe/` | Práctica 7 (Tu primera Skill). Trae `presupuestos_limpio.csv`, el resultado de la Práctica 4 ya hecho, para la Práctica 7 y el reto A | 2 |
+| `plantillas/` | Encargo, normas de la casa (`AGENTS.md`, y `CLAUDE.md` para Claude Code) y bitácora | 1 y 2 |
 | `prompts.md` | Todos los encargos de los cuadernos, para copiar y pegar | 1 y 2 |
 
 En la Práctica 1 el agente creará `notas.txt` en esta carpeta, y en las

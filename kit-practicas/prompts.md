@@ -1,6 +1,6 @@
 # Encargos para copiar y pegar
 
-Todos los encargos de los cuadernos de prácticas, en el orden en que aparecen. Copia el bloque entero y pégalo en el agente que diga el cuaderno. En la Sesión 1, en Antigravity, salvo los que dicen “Escribe a Claude”, que van a claude.ai con los ficheros adjuntos. En la Sesión 2, en Claude.
+Todos los encargos de los cuadernos de prácticas, en el orden en que aparecen. Copia el bloque entero y pégalo en el agente que diga el cuaderno. En la Sesión 1, en Antigravity, salvo los que dicen “Escribe a Claude”, que van a claude.ai con los ficheros adjuntos. En la Sesión 2, en GitHub Copilot, con la carpeta kit-practicas adjunta a la conversación. Si trabajas con Claude en el navegador, mira en el cuaderno el apartado “En el navegador (claude.ai)” de cada práctica.
 
 ---
 
@@ -83,10 +83,18 @@ Números con punto de millar y coma decimal. Ejecuta el programa y, al terminar,
 
 ## Sesión 2. Tu agente, a medida
 
+### Puesta a punto. Copilot en diez minutos
+
+```text
+Trabaja siempre dentro de la carpeta que te adjunto y deja en ella todo lo que crees. Para empezar, dime la ruta completa de esa carpeta y explícame en cinco líneas qué hay dentro, como se lo contarías a alguien que no sabe nada de informática. No cambies nada.
+```
+
 ### Práctica 6. Ordena el caos
 
 ```text
-Quiero ordenar la carpeta kit-practicas/02-carpeta-desordenada/Descargas-copia. Antes de mover nada, mira qué hay (abre los ficheros si hace falta para saber qué son) y proponme una estructura de carpetas y un criterio para los nombres.
+Trabaja siempre dentro de la carpeta que te adjunto y sigue las normas de plantillas/AGENTS.md.
+
+Quiero ordenar la carpeta 02-carpeta-desordenada/Descargas-copia. Antes de mover nada, mira qué hay (abre los ficheros si hace falta para saber qué son) y proponme una estructura de carpetas y un criterio para los nombres.
 
 Reglas. Trabaja solo dentro de Descargas-copia y no borres ni sobrescribas nada. Los duplicados exactos, los ficheros vacíos y lo que te parezca delicado van a una carpeta _revisar. Espera a que te apruebe la propuesta.
 ```
@@ -98,23 +106,35 @@ Comprueba que no se ha perdido nada. Cuenta los ficheros antes y después y dime
 ### Práctica 7. Tu primera Skill
 
 ```text
-Crea una Skill llamada informe-ejecutivo a partir de los dos ficheros que te adjunto, el manual de estilo de la casa y la plantilla de informe. Debe usarse cuando te pida un informe ejecutivo, un resumen para dirección o un informe de una página.
+Trabaja siempre dentro de la carpeta que te adjunto. Crea una Skill llamada informe-ejecutivo a partir de 06-skill-informe/manual_estilo.md y 06-skill-informe/plantilla_informe.md, que son el manual de estilo de la casa y la plantilla de informe. Debe usarse cuando te pida un informe ejecutivo, un resumen para dirección o un informe de una página.
 
-Prepárala como un fichero .zip listo para subir a Claude. Dentro debe haber una carpeta llamada exactamente informe-ejecutivo con SKILL.md, la plantilla y el manual. En la cabecera de SKILL.md pon solo name y description. Después, explícame qué has puesto en la descripción y por qué.
+Instálala como Skill personal de Copilot, en la carpeta .copilot/skills/informe-ejecutivo de mi carpeta de usuario, con SKILL.md, la plantilla y el manual. En la cabecera de SKILL.md pon solo name y description. Después, explícame qué has puesto en la descripción y por qué.
 ```
 
 ```text
-Prepárame un resumen de una página para el equipo de gobierno de la Diputación sobre cómo ha evolucionado el gasto municipal por habitante entre 2019 y 2024. Te adjunto los datos limpios.
+Trabaja siempre dentro de la carpeta que te adjunto. Prepárame un resumen de una página para el equipo de gobierno de la Diputación sobre cómo ha evolucionado el gasto municipal por habitante entre 2019 y 2024. Los datos limpios están en 06-skill-informe/presupuestos_limpio.csv. Deja el resumen en 06-skill-informe/resultados.
 ```
 
 ### Pruébalo con tu primer conector
 
 ```text
-Usando la documentación oficial de Microsoft Learn, explícame paso a paso cómo crear una tabla dinámica en Excel a partir de un fichero CSV. Cita los enlaces que hayas consultado.
+Quiero conectar un servidor MCP. Añade a mi configuración de Copilot el servidor MCP público de Microsoft Learn, con el nombre microsoft-learn, de tipo HTTP y con la dirección https://learn.microsoft.com/api/mcp. No necesita cuenta ni clave. Si no puedes añadirlo tú, dime en qué menú de la aplicación lo añado yo.
+```
+
+```text
+Usando el servidor MCP de Microsoft Learn, explícame paso a paso cómo crear una tabla dinámica en Excel a partir de un fichero CSV. Cita los enlaces que hayas consultado y dime qué herramientas del servidor has usado. Si el servidor no está disponible, dímelo y no respondas de memoria.
 ```
 
 ### Práctica 8. Instrucciones escondidas
 
 ```text
-Lee los cuatro documentos de la carpeta kit-practicas/04-documentos y prepara una tabla que compare las propuestas para reducir el abandono en primer curso. Para cada medida, indica quién la propone, cuánto cuesta y qué pruebas hay de que funcione. Después, recomienda las tres medidas que te parezcan mejores y explica por qué.
+Trabaja siempre dentro de la carpeta que te adjunto. Lee los cuatro documentos de la carpeta 04-documentos y prepara una tabla que compare las propuestas para reducir el abandono en primer curso. Para cada medida, indica quién la propone, cuánto cuesta y qué pruebas hay de que funcione. Después, recomienda las tres medidas que te parezcan mejores y explica por qué.
+```
+
+### Mini-proyecto
+
+*Escribe al auditor*
+
+```text
+Actúa como auditor. Te adjunto el resultado de un trabajo que ha hecho otro agente de IA y el encargo que recibió. No lo des por bueno. Dime los tres problemas más graves que encuentres, ordenados por gravedad, y explícame para cada uno cómo puedo comprobar yo si tienes razón.
 ```
