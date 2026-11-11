@@ -2,7 +2,7 @@
 
 **Equipo:**
 **Reto elegido:**
-**Herramienta:** aplicación de escritorio / navegador (claude.ai) / Claude Code
+**Herramienta:** GitHub Copilot / Antigravity / Claude en el navegador / otra
 **Cuentas:** quién llevó el trabajo y quién lo comprobó
 
 ## 1. Qué queremos conseguir

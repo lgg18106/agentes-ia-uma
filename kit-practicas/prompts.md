@@ -96,7 +96,7 @@ Trabaja siempre dentro de la carpeta que te adjunto y sigue las normas de planti
 
 En 07-facturas/facturas están los documentos que ha recibido Copistería Minerva, S.L. Quiero el libro de facturas recibidas del tercer trimestre de 2026, del 1 de julio al 30 de septiembre, en un fichero libro_facturas.csv con una fila por factura (fecha, número, proveedor, base, tipo de IVA, cuota y total), y un fichero resumen.md con el IVA soportado del trimestre, desglosado por tipo. El CSV, con punto y coma como separador y coma decimal, para que se abra bien en la hoja de cálculo.
 
-No todo lo que hay en la carpeta debe entrar. Si un documento está repetido, no es del trimestre, no va a nombre de la empresa, no es una factura o sus cuentas no cuadran, no lo corrijas ni lo sumes. Ponlo en una lista de incidencias y dime por qué. Guarda todo en 07-facturas/resultados.
+No todo lo que hay en la carpeta debe entrar. Si un documento está repetido, no es del trimestre, no va a nombre de la empresa, no es una factura o sus cuentas no cuadran, no lo corrijas ni lo sumes. Ponlo en una lista de incidencias y dime por qué. No muevas ni cambies ningún documento de la carpeta. Guarda todo en 07-facturas/resultados.
 
 Antes de crear nada, dime en cinco líneas cómo lo vas a hacer y espera a que te lo apruebe.
 ```
@@ -132,7 +132,7 @@ No incluyas ningún dato personal ni copies comentarios literales. Calcula las m
 ```text
 Trabaja siempre dentro de la carpeta que te adjunto y sigue las normas de plantillas/AGENTS.md.
 
-Quiero una página web, observatorio.html, que se abra en el navegador con doble clic, con un selector de municipio, un gráfico del gasto por habitante de 2019 a 2024 y una tabla con la clasificación de 2024. Los datos están en 06-skill-informe/presupuestos_limpio.csv. Añade una nota al pie que diga de dónde salen los datos y qué les falta.
+Quiero una página web, observatorio.html, que se abra en el navegador con doble clic, con un selector de municipio, un gráfico del gasto por habitante de 2019 a 2024 y una tabla con la clasificación de 2024 por gasto por habitante. Los datos están en 06-skill-informe/presupuestos_limpio.csv. Añade una nota al pie que diga de dónde salen los datos y qué les falta.
 
 Guárdala en 01-presupuestos/resultados. Antes de empezar, dime el plan y espera.
 ```

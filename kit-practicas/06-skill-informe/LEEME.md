@@ -3,7 +3,8 @@
 En esta práctica le pides al agente un informe y, en vez de explicarle cómo lo
 quieres, le dices que siga las reglas de la casa, que ya están escritas.
 
-- `manual_estilo.md`, con las ocho reglas del informe ejecutivo de una página.
+- `manual_estilo.md`, con las reglas del informe ejecutivo de una página, ocho
+  de estructura y cinco de formato.
 - `plantilla_informe.md`, con el esqueleto del informe.
 - `presupuestos_limpio.csv`, que es el resultado de la Práctica 4 ya hecho, con
   119 observaciones de 20 municipios entre 2019 y 2024 (falta Archidona en
