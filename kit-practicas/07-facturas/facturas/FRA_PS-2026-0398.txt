@@ -1,0 +1,15 @@
+PAPELERA DEL SUR, S.L.                         NIF B00000012
+
+FACTURA Nº PS-2026/0398                        Fecha: 27/06/2026
+
+Cliente: Copistería Minerva, S.L.              NIF B00000001
+
+Concepto                                       Importe
+Sobres y etiquetas                             210,00 €
+
+Base imponible                                 210,00 €
+IVA 21 %                                       44,10 €
+TOTAL FACTURA                                  254,10 €
+
+Forma de pago: transferencia a 30 días.
+Documento ficticio, creado para una práctica docente.

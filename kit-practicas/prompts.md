@@ -89,18 +89,16 @@ Números con punto de millar y coma decimal. Ejecuta el programa y, al terminar,
 Trabaja siempre dentro de la carpeta que te adjunto y deja en ella todo lo que crees. Para empezar, dime la ruta completa de esa carpeta y explícame en cinco líneas qué hay dentro, como se lo contarías a alguien que no sabe nada de informática. No cambies nada.
 ```
 
-### Práctica 6. La calculadora del IFRU
+### Práctica 6. Las facturas del trimestre
 
 ```text
 Trabaja siempre dentro de la carpeta que te adjunto y sigue las normas de plantillas/AGENTS.md.
 
-En 05-calculadora/especificacion.md se describe un impuesto ficticio, el IFRU. Quiero una página web, calculadora.html, que se abra en el navegador con doble clic, pida los ingresos y el alquiler y calcule el impuesto como dice la especificación, con el desglose por tramos. Guárdala en la carpeta 05-calculadora/resultados.
+En 07-facturas/facturas están los documentos que ha recibido Copistería Minerva, S.L. Quiero el libro de facturas recibidas del tercer trimestre de 2026, del 1 de julio al 30 de septiembre, en un fichero libro_facturas.csv con una fila por factura (fecha, número, proveedor, base, tipo de IVA, cuota y total), y un fichero resumen.md con el IVA soportado del trimestre, desglosado por tipo. El CSV, con punto y coma como separador y coma decimal, para que se abra bien en la hoja de cálculo.
 
-Antes de crear nada, lee la especificación, dime en cinco líneas cómo lo vas a hacer y espera a que te lo apruebe.
-```
+No todo lo que hay en la carpeta debe entrar. Si un documento está repetido, no es del trimestre, no va a nombre de la empresa, no es una factura o sus cuentas no cuadran, no lo corrijas ni lo sumes. Ponlo en una lista de incidencias y dime por qué. Guarda todo en 07-facturas/resultados.
 
-```text
-Añade a la página un botón “Ejecutar pruebas” que compruebe los diez casos de 05-calculadora/pruebas.csv y diga cuáles pasan y cuáles no, céntimo a céntimo. Si alguno falla, no cambies las pruebas. Explícame por qué falla y corrige la calculadora.
+Antes de crear nada, dime en cinco líneas cómo lo vas a hacer y espera a que te lo apruebe.
 ```
 
 ### Práctica 7. El informe de una página
@@ -145,4 +143,28 @@ Guárdala en 01-presupuestos/resultados. Antes de empezar, dime el plan y espera
 
 ```text
 Actúa como auditor. Te adjunto el resultado de un trabajo que ha hecho otro agente de IA y el encargo que recibió. No lo des por bueno. Dime los tres problemas más graves que encuentres, ordenados por gravedad, y explícame para cada uno cómo puedo comprobar yo si tienes razón.
+```
+
+### La liquidación del trimestre (★)
+
+```text
+Trabaja siempre dentro de la carpeta que te adjunto. Con el libro de facturas que has dejado en 07-facturas/resultados y las ventas de 07-facturas/ventas_trimestre.csv, calcula la liquidación del IVA del tercer trimestre de 2026. Quiero una tabla con el IVA devengado por tipos, el IVA soportado y el resultado, y una frase que diga si sale a ingresar o a devolver. Calcula con código y enséñame las operaciones.
+```
+
+### De manual a Skill (★★)
+
+```text
+Trabaja siempre dentro de la carpeta que te adjunto. Convierte el manual de estilo 06-skill-informe/manual_estilo.md y la plantilla 06-skill-informe/plantilla_informe.md en una Skill llamada informe-ejecutivo, con su SKILL.md. En la cabecera pon solo name y description, y que la descripción diga cuándo debe usarse. Instálala para que puedas usarla en cualquier conversación y dime dónde la has guardado y cómo compruebo que está instalada.
+```
+
+### Conecta el agente con otro servicio (★★)
+
+```text
+Quiero conectar un servidor MCP. Añade a mi configuración el servidor MCP público de Microsoft Learn, con el nombre microsoft-learn, de tipo HTTP y con la dirección https://learn.microsoft.com/api/mcp. No necesita cuenta ni clave. Si no puedes añadirlo tú, dime en qué menú lo añado yo.
+```
+
+### Un revisor que no perdona (★★★)
+
+```text
+Crea un subagente llamado revisor que revise informes buscando cifras sin fuente, cálculos que no cuadran y afirmaciones sin respaldo, y que devuelva solo los tres problemas más graves, con la línea en la que están. Después úsalo para revisar el informe que hay en 06-skill-informe/resultados.
 ```

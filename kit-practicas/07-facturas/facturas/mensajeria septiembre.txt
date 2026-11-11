@@ -1,0 +1,15 @@
+MENSAJERÍA RÁPIDA DEL SUR, S.L.                NIF B00000089
+
+FACTURA Nº MR-88213                            Fecha: 28/09/2026
+
+Cliente: Copistería Minerva, S.L.              NIF B00000001
+
+Concepto                                       Importe
+Envíos de septiembre                           132,00 €
+
+Base imponible                                 132,00 €
+IVA 21 %                                       27,72 €
+TOTAL FACTURA                                  159,72 €
+
+Forma de pago: transferencia a 30 días.
+Documento ficticio, creado para una práctica docente.

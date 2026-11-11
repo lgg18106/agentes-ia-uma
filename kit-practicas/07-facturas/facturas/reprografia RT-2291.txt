@@ -1,0 +1,15 @@
+REPROGRAFÍA TÉCNICA, S.L.                      NIF B00000090
+
+FACTURA Nº RT-2291                             Fecha: 27/08/2026
+
+Cliente: Copistería Minerva, S.L.              NIF B00000001
+
+Concepto                                       Importe
+Reparación de la fotocopiadora                 350,00 €
+
+Base imponible                                 350,00 €
+IVA 21 %                                       63,50 €
+TOTAL FACTURA                                  413,50 €
+
+Forma de pago: transferencia a 30 días.
+Documento ficticio, creado para una práctica docente.

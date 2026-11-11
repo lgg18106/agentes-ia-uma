@@ -1,0 +1,15 @@
+TELEFONÍA MEDITERRÁNEA, S.A.                   NIF A00000078
+
+FACTURA Nº TM-303991                           Fecha: 09/09/2026
+
+Cliente: Copistería Minerva, S.L.              NIF B00000001
+
+Concepto                                       Importe
+Internet y teléfono, septiembre                59,90 €
+
+Base imponible                                 59,90 €
+IVA 21 %                                       12,58 €
+TOTAL FACTURA                                  72,48 €
+
+Forma de pago: transferencia a 30 días.
+Documento ficticio, creado para una práctica docente.

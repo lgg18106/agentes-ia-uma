@@ -1,0 +1,15 @@
+ELÉCTRICA MALAGUEÑA, S.A.                      NIF A00000023
+
+FACTURA Nº EM-77120                            Fecha: 10/07/2026
+
+Cliente: Copistería Minerva, S.L.              NIF B00000001
+
+Concepto                                       Importe
+Electricidad del local, julio                  215,40 €
+
+Base imponible                                 215,40 €
+IVA 21 %                                       45,23 €
+TOTAL FACTURA                                  260,63 €
+
+Forma de pago: transferencia a 30 días.
+Documento ficticio, creado para una práctica docente.

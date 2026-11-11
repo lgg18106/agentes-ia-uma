@@ -1,0 +1,15 @@
+DISTRIBUCIONES LIBROSUR, S.A.                  NIF A00000056
+
+FACTURA Nº L-5531                              Fecha: 12/08/2026
+
+Cliente: Copistería Minerva, S.L.              NIF B00000001
+
+Concepto                                       Importe
+Libros de texto para la venta                  640,00 €
+
+Base imponible                                 640,00 €
+IVA 4 %                                        25,60 €
+TOTAL FACTURA                                  665,60 €
+
+Forma de pago: transferencia a 30 días.
+Documento ficticio, creado para una práctica docente.

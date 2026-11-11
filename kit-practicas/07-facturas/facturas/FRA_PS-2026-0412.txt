@@ -1,0 +1,15 @@
+PAPELERA DEL SUR, S.L.                         NIF B00000012
+
+FACTURA Nº PS-2026/0412                        Fecha: 03/07/2026
+
+Cliente: Copistería Minerva, S.L.              NIF B00000001
+
+Concepto                                       Importe
+Papel A4, 120 paquetes                         480,00 €
+
+Base imponible                                 480,00 €
+IVA 21 %                                       100,80 €
+TOTAL FACTURA                                  580,80 €
+
+Forma de pago: transferencia a 30 días.
+Documento ficticio, creado para una práctica docente.

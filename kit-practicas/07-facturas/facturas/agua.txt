@@ -1,0 +1,15 @@
+AGUAS DE LA COSTA, S.A.                        NIF A00000067
+
+FACTURA Nº AC/2026/9087                        Fecha: 20/08/2026
+
+Cliente: Copistería Minerva, S.L.              NIF B00000001
+
+Concepto                                       Importe
+Suministro de agua, bimestre julio y agosto    86,50 €
+
+Base imponible                                 86,50 €
+IVA 10 %                                       8,65 €
+TOTAL FACTURA                                  95,15 €
+
+Forma de pago: transferencia a 30 días.
+Documento ficticio, creado para una práctica docente.

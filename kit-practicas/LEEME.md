@@ -35,11 +35,12 @@ en el navegador. Nadie tiene que pagar nada.
 1. Instala la aplicación con la *Guía de instalación de GitHub Copilot*, que se
    descarga junto al cuaderno de la Sesión 2. Basta una cuenta gratuita de
    GitHub. En clase lo hacemos juntos al empezar.
-2. Abre una conversación nueva, pulsa el **+** del cuadro de texto, elige
-   **Folder…** y selecciona esta carpeta (`kit-practicas`).
-3. Debajo del cuadro de texto, pon el modo en **Interactive** y, en **Tool
-   permissions**, elige **Manual approval (Ask every time)**. Así te pedirá
-   permiso antes de cada acción.
+2. Abre una conversación nueva con **New**, pulsa el **+** del cuadro de texto,
+   elige **Folder…** y selecciona esta carpeta (`kit-practicas`).
+3. Debajo del cuadro de texto, cambia el modo de **Autopilot** a
+   **Interactive** y, en **Tool permissions**, cambia **Approve all** por la
+   opción que pregunta siempre (**Ask every time**). Así te pedirá permiso antes
+   de cada acción.
 4. La carpeta va adjunta a la conversación, así que cada conversación nueva
    empieza adjuntándola y diciéndole que trabaje dentro de ella. Los encargos
    del cuaderno ya llevan esa frase.
@@ -76,8 +77,9 @@ que te pedirá permiso antes de crear, cambiar o mover nada, y no podrá borrar 
 | `02-carpeta-desordenada/` | La carpeta de descargas que ordenamos en la Sesión 1 | 1 |
 | `03-encuesta/` | Reto final, reto A (La voz de los estudiantes) | 2 |
 | `04-documentos/` | Práctica 8 (Instrucciones escondidas) | 2 |
-| `05-calculadora/` | Práctica 6 (La calculadora del IFRU) | 2 |
+| `05-calculadora/` | La calculadora del IFRU, que hicimos en la Sesión 1 | 1 |
 | `06-skill-informe/` | Práctica 7 (El informe de una página). Trae `presupuestos_limpio.csv`, el resultado de la Práctica 4 ya hecho | 2 |
+| `07-facturas/` | Práctica 6 (Las facturas del trimestre) y la actividad extra de la liquidación del IVA | 2 |
 | `plantillas/` | Encargo, normas de la casa (`AGENTS.md`, y `CLAUDE.md` para Claude Code) y bitácora | 1 y 2 |
 | `prompts.md` | Todos los encargos de los cuadernos, para copiar y pegar | 1 y 2 |
 

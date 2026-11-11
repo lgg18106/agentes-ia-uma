@@ -1,0 +1,15 @@
+GRÁFICAS ALAMEDA, S.L.                         NIF B00000034
+
+FACTURA Nº 2026-118                            Fecha: 22/07/2026
+
+Cliente: Copistería Minerva, S.L.              NIF B00000001
+
+Concepto                                       Importe
+Tóner y tintas para las fotocopiadoras         1.250,00 €
+
+Base imponible                                 1.250,00 €
+IVA 21 %                                       262,50 €
+TOTAL FACTURA                                  1.512,50 €
+
+Forma de pago: transferencia a 30 días.
+Documento ficticio, creado para una práctica docente.

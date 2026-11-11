@@ -18,7 +18,7 @@ Guarda también el `.zip`. Si algo sale mal, lo vuelves a descomprimir y empieza
 |---|---|
 | `kit-practicas/` | Los datos y las plantillas de todas las prácticas. Todos son ficticios o simulados |
 | `Cuaderno Sesion 1 - Del chat al agente.pdf` | El cuaderno de la Sesión 1, con las prácticas 1 a 5 y los encargos para copiar y pegar |
-| `Cuaderno Sesion 2 - Tu agente a medida.pdf` | El cuaderno de la Sesión 2, con las prácticas 6 a 8 y el reto final |
+| `Cuaderno Sesion 2 - Tu agente a medida.pdf` | El cuaderno de la Sesión 2, con las prácticas 6 a 8, el reto final y siete actividades extra para quien vaya sobrado |
 | `Guia de instalacion de GitHub Copilot.pdf` | Tres páginas para dejar listo el agente de la Sesión 2 |
 | `Chuleta de agentes.pdf` | Dos páginas con lo esencial, para tenerlas a mano en clase |
 
@@ -33,6 +33,8 @@ En la Sesión 2 trabajamos con **GitHub Copilot**, porque a parte de la clase se
 3. Ten a mano tu cuenta gratuita de claude.ai, la de la Sesión 1.
 
 Si no consigues instalar Copilot, puedes hacer toda la sesión con Claude en el navegador, sin instalar nada. El cuaderno explica en cada práctica lo que cambia.
+
+Si ya tienes Claude Code o Codex, puedes hacerla con tu agente, abriéndolo dentro de `kit-practicas`.
 
 ## Antes de la Sesión 1
 

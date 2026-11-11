@@ -1,0 +1,15 @@
+ELECTRO SOL, S.A.                              NIF A00000112
+
+FACTURA Nº ES-90112                            Fecha: 14/08/2026
+
+Cliente: Lucía Ortega Ruiz                     NIF 00000000T
+
+Concepto                                       Importe
+Televisor de 55 pulgadas                       499,00 €
+
+Base imponible                                 499,00 €
+IVA 21 %                                       104,79 €
+TOTAL FACTURA                                  603,79 €
+
+Forma de pago: transferencia a 30 días.
+Documento ficticio, creado para una práctica docente.
