@@ -89,40 +89,28 @@ Números con punto de millar y coma decimal. Ejecuta el programa y, al terminar,
 Trabaja siempre dentro de la carpeta que te adjunto y deja en ella todo lo que crees. Para empezar, dime la ruta completa de esa carpeta y explícame en cinco líneas qué hay dentro, como se lo contarías a alguien que no sabe nada de informática. No cambies nada.
 ```
 
-### Práctica 6. Ordena el caos
+### Práctica 6. La calculadora del IFRU
 
 ```text
 Trabaja siempre dentro de la carpeta que te adjunto y sigue las normas de plantillas/AGENTS.md.
 
-Quiero ordenar la carpeta 02-carpeta-desordenada/Descargas-copia. Antes de mover nada, mira qué hay (abre los ficheros si hace falta para saber qué son) y proponme una estructura de carpetas y un criterio para los nombres.
+En 05-calculadora/especificacion.md se describe un impuesto ficticio, el IFRU. Quiero una página web, calculadora.html, que se abra en el navegador con doble clic, pida los ingresos y el alquiler y calcule el impuesto como dice la especificación, con el desglose por tramos. Guárdala en la carpeta 05-calculadora/resultados.
 
-Reglas. Trabaja solo dentro de Descargas-copia y no borres ni sobrescribas nada. Los duplicados exactos, los ficheros vacíos y lo que te parezca delicado van a una carpeta _revisar. Espera a que te apruebe la propuesta.
+Antes de crear nada, lee la especificación, dime en cinco líneas cómo lo vas a hacer y espera a que te lo apruebe.
 ```
 
 ```text
-Comprueba que no se ha perdido nada. Cuenta los ficheros antes y después y dime si coinciden. Después crea INDICE.md con lo que hay en cada carpeta, sin copiar el contenido de los ficheros delicados.
+Añade a la página un botón “Ejecutar pruebas” que compruebe los diez casos de 05-calculadora/pruebas.csv y diga cuáles pasan y cuáles no, céntimo a céntimo. Si alguno falla, no cambies las pruebas. Explícame por qué falla y corrige la calculadora.
 ```
 
-### Práctica 7. Tu primera Skill
+### Práctica 7. El informe de una página
 
 ```text
-Trabaja siempre dentro de la carpeta que te adjunto. Crea una Skill llamada informe-ejecutivo a partir de 06-skill-informe/manual_estilo.md y 06-skill-informe/plantilla_informe.md, que son el manual de estilo de la casa y la plantilla de informe. Debe usarse cuando te pida un informe ejecutivo, un resumen para dirección o un informe de una página.
+Trabaja siempre dentro de la carpeta que te adjunto y sigue las normas de plantillas/AGENTS.md.
 
-Instálala como Skill personal de Copilot, en la carpeta .copilot/skills/informe-ejecutivo de mi carpeta de usuario, con SKILL.md, la plantilla y el manual. En la cabecera de SKILL.md pon solo name y description. Después, explícame qué has puesto en la descripción y por qué.
-```
+Prepárame un informe de una página para el equipo de gobierno de la Diputación sobre cómo ha evolucionado el gasto municipal por habitante entre 2019 y 2024. Los datos limpios están en 06-skill-informe/presupuestos_limpio.csv.
 
-```text
-Trabaja siempre dentro de la carpeta que te adjunto. Prepárame un resumen de una página para el equipo de gobierno de la Diputación sobre cómo ha evolucionado el gasto municipal por habitante entre 2019 y 2024. Los datos limpios están en 06-skill-informe/presupuestos_limpio.csv. Deja el resumen en 06-skill-informe/resultados.
-```
-
-### Pruébalo con tu primer conector
-
-```text
-Quiero conectar un servidor MCP. Añade a mi configuración de Copilot el servidor MCP público de Microsoft Learn, con el nombre microsoft-learn, de tipo HTTP y con la dirección https://learn.microsoft.com/api/mcp. No necesita cuenta ni clave. Si no puedes añadirlo tú, dime en qué menú de la aplicación lo añado yo.
-```
-
-```text
-Usando el servidor MCP de Microsoft Learn, explícame paso a paso cómo crear una tabla dinámica en Excel a partir de un fichero CSV. Cita los enlaces que hayas consultado y dime qué herramientas del servidor has usado. Si el servidor no está disponible, dímelo y no respondas de memoria.
+Sigue al pie de la letra el manual de estilo 06-skill-informe/manual_estilo.md y usa la plantilla 06-skill-informe/plantilla_informe.md. Calcula las cifras con código, no de cabeza (con R si está instalado y, si no, con lo que haya en el ordenador). Deja el informe en 06-skill-informe/resultados.
 ```
 
 ### Práctica 8. Instrucciones escondidas
@@ -131,7 +119,27 @@ Usando el servidor MCP de Microsoft Learn, explícame paso a paso cómo crear un
 Trabaja siempre dentro de la carpeta que te adjunto. Lee los cuatro documentos de la carpeta 04-documentos y prepara una tabla que compare las propuestas para reducir el abandono en primer curso. Para cada medida, indica quién la propone, cuánto cuesta y qué pruebas hay de que funcione. Después, recomienda las tres medidas que te parezcan mejores y explica por qué.
 ```
 
-### Mini-proyecto
+### Reto A. La voz de los estudiantes
+
+```text
+Trabaja siempre dentro de la carpeta que te adjunto y sigue las normas de plantillas/AGENTS.md.
+
+En 03-encuesta/encuesta_satisfaccion.csv hay 120 respuestas de una encuesta de satisfacción de estudiantes. Quiero un informe de una página para el decanato con la valoración media de cada servicio, los tres temas que más se repiten en los comentarios y tres recomendaciones. Sigue el manual de estilo 06-skill-informe/manual_estilo.md.
+
+No incluyas ningún dato personal ni copies comentarios literales. Calcula las medias con código. Deja el informe en 03-encuesta/resultados. Antes de empezar, dime el plan y espera.
+```
+
+### Reto B. Observatorio municipal
+
+```text
+Trabaja siempre dentro de la carpeta que te adjunto y sigue las normas de plantillas/AGENTS.md.
+
+Quiero una página web, observatorio.html, que se abra en el navegador con doble clic, con un selector de municipio, un gráfico del gasto por habitante de 2019 a 2024 y una tabla con la clasificación de 2024. Los datos están en 06-skill-informe/presupuestos_limpio.csv. Añade una nota al pie que diga de dónde salen los datos y qué les falta.
+
+Guárdala en 01-presupuestos/resultados. Antes de empezar, dime el plan y espera.
+```
+
+### El auditor
 
 *Escribe al auditor*
 

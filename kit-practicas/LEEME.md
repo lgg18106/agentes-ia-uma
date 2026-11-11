@@ -33,7 +33,8 @@ en el navegador. Nadie tiene que pagar nada.
 ## Con GitHub Copilot (Sesión 2)
 
 1. Instala la aplicación con la *Guía de instalación de GitHub Copilot*, que se
-   descarga junto al cuaderno de la Sesión 2. Basta una cuenta gratuita de GitHub.
+   descarga junto al cuaderno de la Sesión 2. Basta una cuenta gratuita de
+   GitHub. En clase lo hacemos juntos al empezar.
 2. Abre una conversación nueva, pulsa el **+** del cuadro de texto, elige
    **Folder…** y selecciona esta carpeta (`kit-practicas`).
 3. Debajo del cuadro de texto, pon el modo en **Interactive** y, en **Tool
@@ -46,8 +47,7 @@ en el navegador. Nadie tiene que pagar nada.
 ## Con Claude (segunda opinión, y la Sesión 2 si no puedes instalar Copilot)
 
 En el navegador (claude.ai) no hace falta instalar nada. Abre un chat nuevo y
-adjunta los ficheros de la práctica con el botón **+** o arrastrándolos. Para la
-práctica de la carpeta desordenada, adjunta `02-carpeta-desordenada/Descargas.zip`.
+adjunta los ficheros de la práctica con el botón **+** o arrastrándolos.
 Cada práctica de la Sesión 2 trae un apartado “En el navegador (claude.ai)” con
 lo que cambia.
 
@@ -72,12 +72,12 @@ que te pedirá permiso antes de crear, cambiar o mover nada, y no podrá borrar 
 
 | Carpeta | Práctica | Sesión |
 |---|---|---|
-| `01-presupuestos/` | Prácticas 3, 4 y 5 (seis Excel con los presupuestos de 20 municipios) y reto A del mini-proyecto | 1 y 2 |
-| `02-carpeta-desordenada/` | Práctica 6 (Ordena el caos) | 2 |
-| `03-encuesta/` | Mini-proyecto, reto B (La voz de los estudiantes) | 2 |
+| `01-presupuestos/` | Prácticas 3, 4 y 5 (seis Excel con los presupuestos de 20 municipios) y reto B del reto final | 1 y 2 |
+| `02-carpeta-desordenada/` | La carpeta de descargas que ordenamos en la Sesión 1 | 1 |
+| `03-encuesta/` | Reto final, reto A (La voz de los estudiantes) | 2 |
 | `04-documentos/` | Práctica 8 (Instrucciones escondidas) | 2 |
-| `05-calculadora/` | Mini-proyecto, reto C (La calculadora del IFRU) | 2 |
-| `06-skill-informe/` | Práctica 7 (Tu primera Skill). Trae `presupuestos_limpio.csv`, el resultado de la Práctica 4 ya hecho, para la Práctica 7 y el reto A | 2 |
+| `05-calculadora/` | Práctica 6 (La calculadora del IFRU) | 2 |
+| `06-skill-informe/` | Práctica 7 (El informe de una página). Trae `presupuestos_limpio.csv`, el resultado de la Práctica 4 ya hecho | 2 |
 | `plantillas/` | Encargo, normas de la casa (`AGENTS.md`, y `CLAUDE.md` para Claude Code) y bitácora | 1 y 2 |
 | `prompts.md` | Todos los encargos de los cuadernos, para copiar y pegar | 1 y 2 |
 
